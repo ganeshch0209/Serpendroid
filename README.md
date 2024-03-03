@@ -33,7 +33,7 @@ required dependencies listed in `requirements.txt`.
 Install the required dependencies using the following command:
 
 
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### Human-Player Version :
 
