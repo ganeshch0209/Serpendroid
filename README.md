@@ -32,8 +32,8 @@ To run the Snake Game, ensure that you have Python installed on your system alon
 required dependencies listed in `requirements.txt`.
 Install the required dependencies using the following command:
 
-```bash
-pip install -r requirements.txt
+
+```pip install -r requirements.txt
 
 ### Human-Player Version :
 
