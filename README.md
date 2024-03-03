@@ -35,14 +35,14 @@ required dependencies listed in `requirements.txt`.
 
 To play the human-player version, execute the following command:
 
-python Snake_Game_Human.py
+`python Snake_Game_Human.py`
 
 
 ### Reinforcement Learning Version
 
 To train and run the reinforcement learning version, execute the following command:
 
-python Agent.py
+`python Agent.py`
 
 
 ## Gameplay
