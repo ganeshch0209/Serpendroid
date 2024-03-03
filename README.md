@@ -65,5 +65,34 @@ python Agent.py
 
 ![Screenshot Description](Screenshots/1.png)
 
+![Screenshot Description](Screenshots/2.png)
+
+![Screenshot Description](Screenshots/3.png)
+
+![Screenshot Description](Screenshots/4.png)
+
+![Screenshot Description](Screenshots/5.png)
+
+![Screenshot Description](Screenshots/6.png)
+
+![Screenshot Description](Screenshots/7.png)
+
+![Screenshot Description](Screenshots/8.png)
+
+![Screenshot Description](Screenshots/9.png)
+
+![Screenshot Description](Screenshots/10.png)
+
+![Screenshot Description](Screenshots/11.png)
+
+![Screenshot Description](Screenshots/12.png)
+
+![Screenshot Description](Screenshots/13.png)
+
+![Screenshot Description](Screenshots/14.png)
+
+![Screenshot Description](Screenshots/final.png)
+
+
 
 
