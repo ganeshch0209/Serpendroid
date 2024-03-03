@@ -26,12 +26,12 @@ This project is an implementation of the classic Snake game using Python and the
 - **FontTools**: A library for manipulating font files, possibly used for font rendering in Pygame.
 - **pygame-menu**: A library for creating menus in Pygame-based applications, if menu functionality is present in the game.
 
-## How to Run
+## How to Run :
 
 To run the Snake Game, ensure that you have Python installed on your system along with the 
 required dependencies listed in `requirements.txt`.
 
-### Human-Player Version
+### Human-Player Version :
 
 To play the human-player version, execute the following command:
 
