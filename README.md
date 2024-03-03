@@ -29,7 +29,7 @@ This project is an implementation of the classic Snake game using Python and the
 ## How to Run 
 
 To run the Snake Game, ensure that you have Python installed on your system along with the 
-required dependencies listed in `requirements.txt`.
+required dependencies listed in "requirements.txt".
 Install the required dependencies using the following command:
 
 
