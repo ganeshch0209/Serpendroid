@@ -1,0 +1,7 @@
+pygame
+matplotlib
+torch
+numpy
+enum34
+fonttools
+pygame-menu
