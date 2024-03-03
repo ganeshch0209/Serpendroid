@@ -97,6 +97,11 @@ To train and run the reinforcement learning version, execute the following comma
 
 ![Screenshot Description](Screenshots/final.png)
 
+## License
+
+This project is licensed under the MIT License.
+
+
 
 
 
