@@ -99,7 +99,7 @@ To train and run the reinforcement learning version, execute the following comma
 
 ## Contributors
 
-- [Ganesh Ch](https://github.com/ganeshch0209)
+- [Ganesh Ch]
 - [Meghana S]
 - [Parimala G]
 
